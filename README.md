@@ -1,7 +1,7 @@
  # ⚡️ 포켓몬 카드 게임
  
 <img src="https://user-images.githubusercontent.com/72817156/205776380-b4879537-7d38-456f-9427-5226b0e28987.gif" width="1440">
-<a href="https://heesu0303.github.io/ToyProject_CardGame/">▶️ 포켓몬 카드 게임 하러가기</a>
+<a href="https://heesu0303.github.io/Project_CardGame/">▶️ 포켓몬 카드 게임 하러가기</a>
 <br><br>
  
 ## 📝 About Project
